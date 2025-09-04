@@ -17,7 +17,7 @@ const Members = () => {
     { name: 'Mechanical Team', 
       role: '', 
       photo: '/Logos/mechlogo.png', 
-      description: 'We design the mechanical parts of the projects!e design the mechanical parts of the projects!e dese design the mechanical parts of the projects!e design the mechanical parts of the projects!e design the mechanical parts of the projects!e design the mechanical parts of the projects!',
+      description: '',
       slidephotos: [slide1, slide2, slide3, slide4]},
 
     { name: 'Electrical Team', 

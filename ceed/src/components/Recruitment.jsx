@@ -16,12 +16,12 @@ function Recruitment() {
       </div>
 
       <div className="flex items-center justify-center">
-        <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLSeRQb7CfBphnQMnwkOx6ABr_dFb-dKO_AbVh1VD0QTzkh0pLg/viewform?embedded=true"
-          width="640"
-          height="422"
-          className="rounded-xl shadow-lg border border-gray-200"
-        ></iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfONJqlDxQ10eAXeDqXAiF3BOOCed0ZsgHQCBxzkanOoK12jg/viewform?embedded=true" 
+        width="640" 
+        height="1834" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0"></iframe>
       </div>
     </div>
   )
