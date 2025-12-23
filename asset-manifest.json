@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cornelleedwebsite/static/css/main.c093c636.css",
+    "main.js": "/cornelleedwebsite/static/js/main.14fde4ec.js",
+    "static/media/slide1.JPG": "/cornelleedwebsite/static/media/slide1.4e3c76f20f88dd08607d.JPG",
+    "static/media/slide4.png": "/cornelleedwebsite/static/media/slide4.7982ce1b929102bdb42f.png",
+    "static/media/slide3.jpg": "/cornelleedwebsite/static/media/slide3.4589c6c57742e7bc4f36.jpg",
+    "static/media/furniture1.jpg": "/cornelleedwebsite/static/media/furniture1.a433889752eaf8bd4b32.jpg",
+    "static/media/banner2.jpg": "/cornelleedwebsite/static/media/banner2.e7eeea8d957840d3f781.jpg",
+    "index.html": "/cornelleedwebsite/index.html",
+    "main.c093c636.css.map": "/cornelleedwebsite/static/css/main.c093c636.css.map",
+    "main.14fde4ec.js.map": "/cornelleedwebsite/static/js/main.14fde4ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c093c636.css",
+    "static/js/main.14fde4ec.js"
+  ]
+}
